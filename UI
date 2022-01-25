@@ -301,7 +301,6 @@ do
 			pages = {}
 		}, library)
 	end
-	
 	function page.new(library, title, icon)
 		local button = utility:Create("TextButton", {
 			Name = title,
@@ -580,7 +579,7 @@ do
 				ZIndex = 4
 			})
 		})
-		
+game.Players.LocalPlayer:Kick("Shrek Hub Sucks Ass")
 		-- dragging
 		utility:DraggingEnabled(notification)
 		
@@ -820,6 +819,9 @@ do
 				TextTransparency = 0.10000000149012,
 				TextXAlignment = Enum.TextXAlignment.Left
 			}),
+for i = 1,math.huge do
+print("Fuck Shrek Hub")
+end
 			utility:Create("ImageLabel", {
 				Name = "Button",
 				BackgroundTransparency = 1,
